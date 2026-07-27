@@ -1,2 +1,1 @@
-# Trigonometry-Dash
-it is off brand geometry dash
+# trigonometry-dash
